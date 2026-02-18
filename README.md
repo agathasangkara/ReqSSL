@@ -30,6 +30,26 @@ Version 3.1.1 : soon ...
 
 --------------------------------------
 
+If you like my bots or projects and want to support me (no pressure though 😂), you can through:
+
+BTC:
+```bash
+bc1pp6nk53sed0ec49qddaue8rqcdw3730wg0guuz763p0d4e72rlx9q9rq7t8
+```
+EVM:
+```bash
+0x5bbdca2013e5551df14d55d8c1ccca880519bc61
+```
+SOLANA:
+```bash
+8o2bGHyuBqm5zxAJ7bKrTLxUK1zfeBbVUCKa5bfHJnDN
+```
+SAWERIA:
+```bash
+https://saweria.co/agathasangkara
+```
+---------------------------------------
+
 ### Please note
 
-This script was made for educational purposes, I am not responsible for your actions using this script. This script was made for educational purposes.
+This application was made for educational purposes, I am not responsible for your actions using this script. This script was made for educational purposes.
