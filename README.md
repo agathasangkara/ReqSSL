@@ -4,9 +4,29 @@
 
 --------------------------------------
 
-### Download
+### Changelog
 
-Google Drive : https://drive.google.com/file/d/1tCp4BnzQAhMGc7iRGwRWeP1ng1A4fxER/view?usp=sharing
+Initial Release
+Version 3.1.0 : https://drive.google.com/file/d/1tCp4BnzQAhMGc7iRGwRWeP1ng1A4fxER/view?usp=sharing
+
+- Added Traffic intercep
+- Added Compose with paralel request
+- Added Analyzer Crypto Encryption on JS
+- Added Frida tools bypass pinning certified
+- Added AI intregition
+
+---------------------------------------
+
+Updates
+Version 3.1.1 : soon ...
+
+- Add Intercept mode ( Terminal + Browser )
+- Add Modify & Mock Request
+- Improve Analyzer JS Cypto Encryption
+- Need permission file on root ( fixed )
+- Added cURL copy on Compose
+- Added Proxy setting on Compose
+- Added Module magisk root for android
 
 --------------------------------------
 
